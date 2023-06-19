@@ -8,6 +8,7 @@ import Cart from "../page/Cart";
 import Login from "../forms/Login";
 import SecuredRoute from "../security/SecuredRoute";
 
+//test commit
 const Content = () => {
 
     return (
