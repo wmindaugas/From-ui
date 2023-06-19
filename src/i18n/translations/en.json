@@ -1,0 +1,21 @@
+{
+  "products" : {
+    "name": "Name",
+    "category" : "Category",
+    "description": "Description",
+    "quantity": "Quantity",
+    "price" : "Price"
+  },
+  "header" : {
+    "products" : "Queries",
+    "create" : {
+      "product" : "Create product",
+      "user" : "Create user"
+    }
+  },
+  "user": {
+    "username": {
+      "exist": "This username already exist"
+    }
+  }
+}

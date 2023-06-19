@@ -1,0 +1,21 @@
+{
+  "products" : {
+    "name": "Pavadinimas",
+    "category" : "Kategorija",
+    "description": "Aprasynmas",
+    "quantity": "Kiekis",
+    "price" : "Kaina"
+  },
+  "header" : {
+    "products" : "Užklausos",
+    "create" : {
+      "product" : "Sukurti produkta",
+      "user" : "Sukurti vartotoja"
+    }
+  },
+  "user": {
+    "username": {
+      "exist": "Toks vartotojo vardas jau egzistuoja"
+    }
+  }
+}
